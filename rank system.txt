@@ -1,0 +1,9 @@
+Tecrübeli: 5 level
+Rahip: 10 level
+Usta: 15 level
+Üstad: 20 level
+Soylu: 25 level
+Asil: 30 level
+Bilgin: 40 level
+Kahraman: 50 level
+Lord: 75 level
